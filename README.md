@@ -7,7 +7,7 @@ I spend most of my time doing Web development with **Vue.js** and **Node.js**. I
 
 ### ⚡ My Work
 
-You can find all of my projects on **[GitHub](https://github.com/BetaHuhn?tab=repositories)** or on my website **[mxis.ch](https://mxis.ch)**. Also take a look at my **[Dribbble](https://dribbble.com/betahuhn/) profile**
+You can find all of my projects on **[GitHub](https://github.com/BetaHuhn?tab=repositories)** or on my website **[mxis.ch](https://mxis.ch)**. Also take a look at my **[Dribbble](https://dribbble.com/betahuhn/)** profile
 
 ### 🔨 What I've worked with
 
