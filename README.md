@@ -40,7 +40,7 @@ If you have questions, want to hire me or just want to say hi, send an email to 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=betahuhn&count_private=true&show_icons=true&theme=vue&hide_title=true" />
 </a>
 <a href="https://github.com/BetaHuhn?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betahuhn&layout=compact" />
 </a>
 
 **See you around ✌**
