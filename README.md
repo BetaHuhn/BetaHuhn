@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is **Maximilian**, I am a 17 year old student and self-taught developer from Germany.
+My name is **Maximilian**, I am a 17 year old student and self-taught developer from Germany (:de:).
 
 ### 🔭 What I do
 
@@ -11,22 +11,14 @@ You can find all of my projects on **[GitHub](https://github.com/BetaHuhn?tab=re
 
 ### 🔨 What I've worked with
 
-- HTML5/CSS
-- JavaScript
-- Node.js (Express)
-- Vue.js
-- MongoDB
-- TypeScript
-- Python
-- Basic server administration (Linux)
-- Arduino
+`.html`, `.js`, `.css`, `.vue`, `.ts`, `.xd`,  `.psd`
 
 ### 🌱 I'm currently learning
 
 TypeScript, continuous integration, GraphQL
 
 ### 📫 How to reach me
-If you have questions, want to hire me or just want to say hi, send an email to **[hello@mxis.ch](mailto:hello@mxis.ch)** or contact me on **[Telegram](https://t.me/betahuhn)**
+If you have questions, want to hire me or just want to say hi, send an email to **[hello@mxis.ch](mailto:hello@mxis.ch)**
 
 ### 💬 Connect with me
 <a href="https://www.instagram.com/creerow/">
@@ -40,7 +32,14 @@ If you have questions, want to hire me or just want to say hi, send an email to 
 <a href="https://t.me/betahuhn">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<br>
-<br>
+
+### 📈 Some stats
+
+<a href="https://github.com/BetaHuhn?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=betahuhn&count_private=true&show_icons=true&theme=vue&hide_title=true" />
+</a>
+<a href="https://github.com/BetaHuhn?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</a>
 
 **See you around ✌**
