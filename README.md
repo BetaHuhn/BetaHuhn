@@ -32,6 +32,7 @@ If you have questions, want to hire me or just want to say hi, send an email to 
 <a href="https://t.me/betahuhn">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+<br>
 
 ### 📈 Some stats
 
