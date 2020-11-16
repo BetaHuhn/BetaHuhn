@@ -11,7 +11,7 @@ You can find all of my projects on **[GitHub](https://github.com/BetaHuhn?tab=re
 
 ### 🔨 What I've worked with
 
-`.html`, `.js`, `.css`, `.vue`, `.ts`, `.xd`,  `.psd`
+`.html`, `.js`, `.css`, `.vue`, `.ts`, `.git`, `.sh`, `.xd`,  `.psd`
 
 ### 🌱 I'm currently learning
 
