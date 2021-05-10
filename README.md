@@ -4,32 +4,9 @@ My name is **Maximilian** (@betahuhn), I am a 18 year old student from Germany (
 
 ### ⚡ My Work
 
-You can find all of my projects on **[GitHub](https://github.com/BetaHuhn?tab=repositories)** or on my website **[mxis.ch](https://mxis.ch)**. Also take a look at my **[Dribbble](https://dribbble.com/betahuhn/)** profile. 
+You can find all of my projects on **[GitHub](https://github.com/BetaHuhn?tab=repositories)** or on my website **[mxis.ch](https://mxis.ch)**. Also take a look at my **[Dribbble](https://dribbble.com/betahuhn/)** profile for some of my designs. 
 
-Here's a short list of what I was working on in the last few months:
-
-**Web**
-
-- [`drkmd.js`](https://github.com/BetaHuhn/drkmd.js) - Simple dark-mode/light-mode logic for any website.
-- [`feedback.js`](https://github.com/BetaHuhn/feedback-js) - Simple modern feedback modal for any website.
-- [`QrGen`](https://github.com/BetaHuhn/qrgen) - Create QR-Codes and shortened URLs from any link quickly and easily at [qrgen.cc](https://qrgen.cc).
-- [`Portfolio`](https://github.com/BetaHuhn/portfolio) - My personal [website](https://mxis.ch).
-
-**NPM Packages**
-
-- [`ackee-report`](https://github.com/BetaHuhn/ackee-report) - CLI tool to generate performance reports of websites using the self-hosted analytics tool Ackee.
-- [`ejs-serve`](https://github.com/BetaHuhn/ejs-serve) - Build, watch and serve your EJS templates in your browser.
-- [`metadata-scraper`](https://github.com/BetaHuhn/metadata-scraper) - A JavaScript library for scraping/parsing metadata from a web page.
-- [`running-at`](https://github.com/BetaHuhn/running-at) - Get/Print your local and network IP address.
-- [`spaces-cli`](https://github.com/BetaHuhn/spaces-cli) - Quickly upload and download files from DigitalOcean Spaces from your Terminal.
-
-**GitHub Actions**
-
-- [`deploy-to-vercel-action`](https://github.com/BetaHuhn/deploy-to-vercel-action) - Deploy your project to Vercel using GitHub Actions. Supports PR previews and GitHub deployments.
-- [`do-spaces-action`](https://github.com/BetaHuhn/do-spaces-action) - Upload directories/files to DigitalOcean Spaces via GitHub Actions. Supports package/library versioning.
-- [`repo-file-sync-action`](https://github.com/BetaHuhn/repo-file-sync-action)- Keep files like Action workflows or entire directories in sync between multiple repositories with GitHub Actions.
-
-### 🔨 What I've worked with
+### 🔨 The tools I use
 
 `.html`, `.js`, `.css`, `.vue`, `.ts`, `.git`, `.sh`, `.xd`,  `.psd`
 
