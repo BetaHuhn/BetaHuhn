@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Maximilian** (@betahuhn), I am a 18 year old student from Germany (:de:). I love working on open-source projects in my free time. I develop NPM libraries and websites using Node.js and Vue.js. I'm also an avid **photographer**, so go check out my **[Instagram](https://instagram.com/creerow)** or the gallery on my website **[mxis.ch/gallery](https://mxis.ch/gallery)**. 
+My name is **Maximilian** (@betahuhn), I am a 19 year old student from Germany (:de:). I love working on open-source projects in my free time. I develop NPM libraries and websites using Node.js and Vue.js. I'm also an avid **photographer**, so go check out my **[Instagram](https://instagram.com/creerow)** or the gallery on my website **[mxis.ch/gallery](https://mxis.ch/gallery)**. 
 
 ### ⚡ My Work
 
