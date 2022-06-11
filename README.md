@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is **Maximilian** (@betahuhn), I am a 19 year old student from Germany (:de:). I love working on open-source projects in my free time. I develop NPM libraries and websites using Node.js and Vue.js. I'm also an avid **photographer**, so go check out my **[Instagram](https://instagram.com/creerow)** or the gallery on my website **[mxis.ch/gallery](https://mxis.ch/gallery)**. 
+My name is **Maximilian** (@betahuhn), I am a 19 year old **developer & designer** from Germany (:de:). I am currently helping push the limit of personal and cloud computing **[@deta](https://github.com/deta)**.
+
+I also love working on **open-source** projects and have developed multiple NPM libraries, GitHub Actions and other projects such as **[WebCrate](https://github.com/WebCrateApp/webcrate)**. I'm also an avid **photographer**, so check out the gallery on my website **[mxis.ch/gallery](https://mxis.ch/gallery)**. 
 
 ### ⚡ My Work
 
@@ -8,10 +10,10 @@ You can find all of my projects on **[GitHub](https://github.com/BetaHuhn?tab=re
 
 ### 🔨 The tools I use
 
-`.html`, `.js`, `.css`, `.vue`, `.ts`, `.git`, `.sh`, `.xd`,  `.psd`
+`.html`, `.js`, `.css`, `.vue`, `.svelte`, `.ts`, `.git`, `.sh`, `.xd`, `.fig`
 
 ### 📫 How to reach me
 
-If you have questions, want to hire me or just want to say hi, send an email to **[hello@mxis.ch](mailto:hello@mxis.ch)** or dm me on [Twitter](https://twitter.com/betahuhn).
+If you have questions or just want to say hi, send an email to **[hello@mxis.ch](mailto:hello@mxis.ch)** or dm me on [Twitter](https://twitter.com/betahuhn).
 
 **See you around ✌**
