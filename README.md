@@ -14,6 +14,6 @@ You can find all of my projects on **[GitHub](https://github.com/BetaHuhn?tab=re
 
 ### 📫 How to reach me
 
-If you have questions or just want to say hi, send an email to **[hello@mxis.ch](mailto:hello@mxis.ch)** or dm me on [Twitter](https://twitter.com/betahuhn).
+If you have questions or just want to say hi, dm me on [Twitter](https://twitter.com/betahuhn).
 
 **See you around ✌**
