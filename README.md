@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Maximilian** (@betahuhn), I am a 19 year old **developer & designer** from Germany (:de:). I am currently helping push the limit of personal and cloud computing **[@deta](https://github.com/deta)**.
+My name is **Maximilian** (@betahuhn), I am a 20 year old **developer & designer** from Germany (:de:). I am currently helping push the limit of personal and cloud computing **[@deta](https://github.com/deta)**.
 
 I also love working on **open-source** projects and have developed multiple NPM libraries, GitHub Actions and other projects such as **[WebCrate](https://github.com/WebCrateApp/webcrate)**. I'm also an avid **photographer**, so check out the gallery on my website **[mxis.ch/gallery](https://mxis.ch/gallery)**. 
 
