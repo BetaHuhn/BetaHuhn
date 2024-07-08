@@ -10,7 +10,7 @@ You can find all of my projects on **[GitHub](https://github.com/BetaHuhn?tab=re
 
 ### 🔨 The tools I use
 
-`.html`, `.js`, `.css`, `.vue`, `.svelte`, `.ts`, `.git`, `.sh`, `.xd`, `.fig`
+`.html`, `.js`, `.css`, `.vue`, `.svelte`, `.ts`, `.go`, `.git`, `.sh`, `.fig`
 
 ### 📫 How to reach me
 
