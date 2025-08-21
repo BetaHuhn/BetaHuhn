@@ -6,7 +6,9 @@ I also love working on **open-source** projects and have developed multiple NPM 
 
 ### ⚡ My Work
 
-You can find all of my projects on **[GitHub](https://github.com/BetaHuhn?tab=repositories)** or on my website **[mxis.ch](https://mxis.ch)**. Also take a look at my **[Dribbble](https://dribbble.com/betahuhn/)** profile for some of my designs. 
+You can find all of my projects on **[GitHub](https://github.com/BetaHuhn?tab=repositories)** or on my website **[mxis.ch](https://mxis.ch)**. Also take a look at my **[Dribbble](https://dribbble.com/betahuhn/)** profile for some of my designs.
+
+I am currently experimenting with different AI tools and agentic workflows as well as the personal knowledge base and local software space.
 
 ### 🔨 The tools I use
 
